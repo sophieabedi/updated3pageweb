@@ -1,0 +1,37 @@
+html {
+
+  background-color: khaki
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+p {
+  margin-top: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  font-size: 20px;
+}
+
+li {
+  display: inline;
+  align-items: center;
+}
+li a {
+  display: block;
+  color: black;
+  justify-content: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+img {
+  border: 20px solid #000;
+
+}
+.myDiv {
+  border: 5px outset GoldenRod;
+  background-color: Ivory;
+  justify-content: center;
+  align-items: center;
+}
